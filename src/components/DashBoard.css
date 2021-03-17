@@ -1,0 +1,43 @@
+.dash-div{
+    width: 100%;
+    height: 60%;
+    box-shadow: 1px 1px 1px 1px lightgray;
+}
+.recharts-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.sidebar{
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    min-height: 150vh;
+    float:right ;
+    width: 20%;
+}
+.cont1{
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    margin-top: 20%;
+    margin-left: 10%;
+    width: 80%;
+    height: 250px;
+}
+ .cont2{
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    margin-top: 50%;
+    margin-left: 10%;
+    width: 80%;
+    height: 250px;
+}
+.container{
+    width: 60em;
+    height: auto;
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-items:center ;
+    flex-wrap:wrap;
+}

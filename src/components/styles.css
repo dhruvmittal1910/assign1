@@ -1,0 +1,100 @@
+.asset-div{
+    margin-top: 30px;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    width: 30%;
+   
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: auto;
+    margin: 20px;
+}
+.asset-div .heading{
+    color:blue;
+    font-size:20px;
+    padding-top:20px;
+    padding-left:20px;
+    
+}
+.asset-div .content{
+    padding: 20px;
+}
+
+.avg-div{
+    margin-top: 30px;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    width: 30%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: auto;
+    margin: 20px;
+}
+.avg-div .avg-heading{
+    color:blue;
+    font-size:20px;
+    padding-top:20px;
+    padding-left:20px;
+    
+}
+.avg-div .avg-content{
+    padding: 20px;
+}
+
+.financial-div{
+    margin-top: 30px;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    width: 30%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: auto;
+    margin: 20px;
+}
+.financial-div .fin-heading{
+    color:blue;
+    font-size:20px;
+    padding-top:20px;
+    padding-left:20px;
+    
+}
+.financial-div .fin-content{
+    padding: 20px;
+}
+
+.gr-div{
+    margin-top: 30px;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    width: 30%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: auto;
+    margin: 20px;
+}
+.gr-div .gr-heading{
+    color:rgb(126, 172, 233);
+    font-size:20px;
+    padding-top:20px;
+    padding-left:20px;
+    
+}
+.gr-div .gr-content{
+    padding: 20px;
+}
+
+.major-div{
+    margin-top: 30px;
+    box-shadow: 1px 1px 1px 1px lightgray;
+    width: 30%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: auto;
+    margin: 20px;
+}
+.major-div .major-heading{
+    color:blue;
+    font-size:20px;
+    padding-top:20px;
+    padding-left:20px;
+    
+}
+.major-div .major-content{
+    padding: 20px;
+}
